@@ -29,5 +29,8 @@
     "@types/node": "^20.4.9",
     "@types/pdf-parse": "^1.1.1",
     "ts-node": "^10.9.1"
+  },
+  "engines":{
+    "node": ">=20"
   }
 }
